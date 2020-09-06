@@ -1,0 +1,10 @@
+-type1 S
+-type2 M
+-type3 L
+-capacity1 3
+-capacity2 2
+-capacity3 2
+-cost1 50
+-cost2 75
+-cost3 120
+-per 30 minutes
