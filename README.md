@@ -1,2 +1,2 @@
 # port-simulator
-A multi process shell application that simulates a commercial port.
+A multi process application that simulates a commercial port.
